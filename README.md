@@ -32,8 +32,8 @@ The dataset contains information on furniture products sold online, including:
 ## 📊 Key Insights
 - Free shipping significantly improves sales performance.
 - Lower-priced furniture items show higher sales volume, indicating price sensitivity.
-- Moderate discounts (21–50%) drive the highest average sales.
-- Paid shipping is more common among higher-priced products.
+- Discount Range (50%+) drive the highest average sales.
+- Free shipping is more common among higher-priced products.
 - Mid-range pricing provides an optimal balance between demand and revenue.
 
 ## 📈 Visualizations Included
